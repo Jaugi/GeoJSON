@@ -16,3 +16,17 @@ GeoJSON supports the following geometry types: Point, LineString, Polygon, Multi
 > - Madagascar
 > - The Netherlands
 > - New Zealand
+
+> #### Provinces & States
+> Netherlands
+>
+> - Flevoland
+> - North Holland
+> - South Holland
+
+> United States of America
+>
+> - Colorado
+> - North Dakota
+> - Utah
+> - Wyoming
