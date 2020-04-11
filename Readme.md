@@ -1,1 +1,1 @@
-# Jaugi GeoJSON
+# GeoJSON
