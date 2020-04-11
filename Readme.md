@@ -18,15 +18,15 @@ GeoJSON supports the following geometry types: Point, LineString, Polygon, Multi
 > - New Zealand
 
 > #### Provinces & States
-> Netherlands
->
-> - Flevoland
-> - North Holland
-> - South Holland
+>> Netherlands
+>>
+>> - Flevoland
+>> - North Holland
+>> - South Holland
 
-> United States of America
->
-> - Colorado
-> - North Dakota
-> - Utah
-> - Wyoming
+>> United States of America
+>>
+>> - Colorado
+>> - North Dakota
+>> - Utah
+>> - Wyoming
