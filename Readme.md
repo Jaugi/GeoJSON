@@ -7,3 +7,12 @@ and can be inaccurate, especially near the borders of the country.
 
 GeoJSON is a format for encoding a variety of geographic data structures.
 GeoJSON supports the following geometry types: Point, LineString, Polygon, MultiPoint, MultiLineString, and MultiPolygon. Geometric objects with additional properties are Feature objects. Sets of features are contained by FeatureCollection objects.
+
+## Current country's, provinces and states
+> #### Country's
+>
+> - Costa Rica
+> - Honduras
+> - Madagascar
+> - The Netherlands
+> - New Zealand
