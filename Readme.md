@@ -13,6 +13,7 @@ GeoJSON supports the following geometry types: Point, LineString, Polygon, Multi
 >
 > - Costa Rica
 > - Honduras
+> - Kenya
 > - Madagascar
 > - The Netherlands
 > - New Zealand
