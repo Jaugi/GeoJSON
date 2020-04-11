@@ -1,6 +1,7 @@
 # Jaugi GeoJSON
 Jaugi GeoJSON is a project which provides some GeoJSON files from different country
-to test with or build a application with.
+to test with or build a application with. Some of these files are realy rough outlines
+and can be inaccurate, especially near the borders of the country.
 
 ## What is GeoJSON?
 
